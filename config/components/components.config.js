@@ -5,6 +5,8 @@ module.exports = [
   'Exception',
   'FooterToolbar',
   'GlobalFooter',
+  'GlobalHeader',
+  'SiderMenu',
   'HeaderSearch',
   'NoticeIcon',
   'PageHeader',
